@@ -1,7 +1,8 @@
 # Automatic-Segmentation-of-Vessels-Retinas-in-Eye-Fundus-Images
 Segmentation of retinal vessels from a fundus image from the DRIVE dataset.
 
-![Captura de ecrã 2023-03-03 021335](https://user-images.githubusercontent.com/94623508/222614200-ebce4a4d-3872-4e2f-b857-337c890c50f0.png)
+![Captura de ecrã 2023-03-03 021335](https://user-images.githubusercontent.com/94623508/222617188-2e30f1b5-9ff2-4890-9a70-6d9b9037f7d3.png)
+
 
 The procedures advised in the article by Ricci et al (DOI: 10.1109/TMI.2007.898551) were used, as shown in Figure 2:
 
